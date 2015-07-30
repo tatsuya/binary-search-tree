@@ -35,3 +35,8 @@ Get the number of nodes exist in the tree.
 ### BinarySearchTree#toArray()
 
 Convert the tree to array.
+
+## See also
+
+- [Computer science in JavaScript: Binary search tree, Part 1 | NCZOnline](http://www.nczonline.net/blog/2009/06/09/computer-science-in-javascript-binary-search-tree-part-1/)
+
