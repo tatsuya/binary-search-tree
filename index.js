@@ -1,7 +1,9 @@
 'use strict';
 
 /**
- * @return {[type]} [description]
+ * Represents binary search tree.
+ *
+ * @constructor
  */
 var BinarySearchTree = module.exports = function() {
   this.root = null;
